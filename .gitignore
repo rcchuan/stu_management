@@ -1,0 +1,18 @@
+# Python 虚拟环境与缓存
+stu_man_venv/
+.venv/
+__pycache__/
+*.py[cod]
+
+# 本地开发文件
+.idea/
+.env
+.env.*
+!.env.example
+*.log
+*.db
+*.sqlite3
+
+# 私钥
+*.pem
+*.key
